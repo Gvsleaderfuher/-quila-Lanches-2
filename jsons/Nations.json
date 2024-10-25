@@ -1,38 +1,36 @@
 [
-	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+    {
+        "name": "Aquilanismo",
+        "leaderName": "Güstavsonn e Neitän",
+        "adjective": ["aquilanista"],
+        "startBias": ["Colinas"],
+        "preferredVictoryType": "Dominação",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+        "startIntroPart1": "Pelo poder da águia, lideraremos a nação à vitória!",
+        "startIntroPart2": "Somos o símbolo de uma nova era, onde força, disciplina e fé se unem para governar o mundo.",
+        
+        "declaringWar": "Aqueles que se opõem à Águia enfrentarão sua fúria!",
+        "attacked": "Eles ousam atacar a Águia? A resposta será devastadora.",
+        "defeated": "Nossa queda é temporária. A águia sempre renasce.",
+        "introduction": "A ordem e o poder do Áquilanismo conduzirão este mundo ao seu verdadeiro destino.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+        "neutralHello": "Como podemos fortalecer nossa aliança?",
+        "neutralLetsHearIt": ["Vamos ouvir.","Fale agora.","Prossiga."],
+        "neutralNo": ["Isso é inaceitável.","De forma alguma.","Recusamos completamente."],
+        "neutralYes": ["Isso é excelente.","Concordamos.","Estamos de acordo."],
+
+        "hateHello": "O que você quer desta vez?",
+        "hateLetsHearIt": ["Fale logo!","O que tem a dizer?","Prossiga."],
+        "hateNo": ["Isso é impossível!","Não concordamos com isso!","Está brincando?"],
+        "hateYes": ["Aceitável.","Isso serve.","Muito bem..."],
+        
+        "afterPeace": "A paz é temporária, mas necessária para se rearmar.",
+        "tradeRequest": "Você é digno desta oferta de comércio.",
+
+        "outerColor": [0, 100, 0],  // Verde Escuro
+        "innerColor": [0, 255, 0],  // Verde Claro
+        "unique": "ORDEM_DISCIPLINA",
+        "cities": ["Aquila Prime","Nova Águia","Cidadela Imperial","Fortaleza da Fé","Pico da Águia","Guardiões","Vigília do Norte",
+            "Palácio Áquila","Torre do Destino","Aldeia de Ferro","Castelo Branco","Trono das Montanhas","Cidade dos Heróis","Campo de Aço"]
+    }
 ]
