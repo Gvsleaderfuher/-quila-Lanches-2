@@ -1,25 +1,24 @@
 [
-	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
-	},
-	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
-	}
+    {
+        "name": "Fortaleza Imperial",
+        "replaces": "Circus Maximus",
+        "uniqueTo": "Aquilanismo",
+        "cost": 600,
+        "happiness": 15,
+        "culture": 10,
+        "maintenance": 120,
+        "isNationalWonder": true,
+        "requiredBuildingInAllCities": "Barracks",
+        "requiredTech": "Military Tradition"
+    },
+    {
+        "name": "Granário de Guerra",
+        "replaces": "Aqueduct",
+        "uniqueTo": "Aquilanismo",
+        "cost": 100,
+        "hurryCostModifier": 180,
+        "happiness": 3,
+        "uniques": ["50% da comida é preservada após o nascimento de um novo cidadão"],
+        "requiredTech": "Engineering"
+    }
 ]
