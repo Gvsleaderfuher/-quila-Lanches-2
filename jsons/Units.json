@@ -1,17 +1,17 @@
 [
-	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
+    {
+        "name": "Legionários Áquila",
+        "unitType": "Melee",
+        "uniqueTo": "Aquilanismo",
+        "replaces": "Infantry",
+        "movement": 3,
+        "strength": 150,
+        "rangedStrength": 0,
+        "range": 1,
+        "cost": 600,
+        "requiredTech": "Replaceable Parts",
+        "requiredResource": "Iron",
+        "promotions": ["Drill I", "Shock I", "Blitz"],
+        "attackSound": "Phasers"
+    }
 ]
