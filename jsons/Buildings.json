@@ -9,7 +9,7 @@
         "maintenance": 120,
         "isNationalWonder": true,
         "requiredBuildingInAllCities": "Barracks",
-        "requiredTech": "Military Tradition"
+        "requiredTech": "Chivalry"
     },
     {
         "name": "Granário de Guerra",
