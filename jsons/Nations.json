@@ -1,10 +1,10 @@
 [
     {
         "name": "Aquilanismo",
-        "leaderName": "Güstavsonn e Neitän",
+        "leaderName": "Gustavsonn e Neitan",
         "adjective": ["aquilanista"],
         "startBias": ["Colinas"],
-        "preferredVictoryType": "Dominação",
+        "preferredVictoryType": "Domination",
 
         "startIntroPart1": "Pelo poder da águia, lideraremos a nação à vitória!",
         "startIntroPart2": "Somos o símbolo de uma nova era, onde força, disciplina e fé se unem para governar o mundo.",
@@ -27,8 +27,8 @@
         "afterPeace": "A paz é temporária, mas necessária para se rearmar.",
         "tradeRequest": "Você é digno desta oferta de comércio.",
 
-        "outerColor": [0, 100, 0],  // Verde Escuro
-        "innerColor": [0, 255, 0],  // Verde Claro
+        "outerColor": [0, 100, 0],
+        "innerColor": [0, 255, 0],
         "unique": "ORDEM_DISCIPLINA",
         "cities": ["Aquila Prime","Nova Águia","Cidadela Imperial","Fortaleza da Fé","Pico da Águia","Guardiões","Vigília do Norte",
             "Palácio Áquila","Torre do Destino","Aldeia de Ferro","Castelo Branco","Trono das Montanhas","Cidade dos Heróis","Campo de Aço"]
